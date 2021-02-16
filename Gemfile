@@ -2,7 +2,7 @@
 source "https://rubygems.org"
 
 # gem "rails"
-
+gem 'sysrandom'
 gem 'sinatra'
     gem 'rake'
     gem 'thin'
